@@ -1,0 +1,236 @@
+[
+    {
+        "client_msg_id": "af964092-ae15-445d-b47e-1aff11813f58",
+        "type": "message",
+        "text": "<https:\/\/chrome.google.com\/webstore\/detail\/octotree\/bkhaagjahfmjljalopjnoealnfndnagc>",
+        "user": "UKV0QGEUX",
+        "ts": "1567080663.000600",
+        "team": "TKFNAEJDQ",
+        "user_team": "TKFNAEJDQ",
+        "source_team": "TKFNAEJDQ",
+        "user_profile": {
+            "avatar_hash": "4d279b5ab4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-22\/675026989703_4d279b5ab4fe8609251b_72.png",
+            "first_name": "kendo.yasui",
+            "real_name": "kendo.yasui",
+            "display_name": "",
+            "team": "TKFNAEJDQ",
+            "name": "kendo.yasui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Octotree",
+                "title_link": "https:\/\/chrome.google.com\/webstore\/detail\/octotree\/bkhaagjahfmjljalopjnoealnfndnagc",
+                "text": "GitHub code tree on steroids",
+                "fallback": "Octotree",
+                "from_url": "https:\/\/chrome.google.com\/webstore\/detail\/octotree\/bkhaagjahfmjljalopjnoealnfndnagc",
+                "thumb_url": "https:\/\/lh3.googleusercontent.com\/k1C3r2ZlDybf-KtzN8vuL6r2KIs35fLYTdJU9QDJvKE6H2EjHtNLN_rErhdDUBsJmLm26N5IoA",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "service_icon": "https:\/\/www.google.com\/images\/icons\/product\/chrome_web_store-32.png",
+                "service_name": "chrome.google.com",
+                "id": 1,
+                "original_url": "https:\/\/chrome.google.com\/webstore\/detail\/octotree\/bkhaagjahfmjljalopjnoealnfndnagc"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dfac864c-6609-4444-8295-e72ec7477250",
+        "type": "message",
+        "text": "GitHubのソースコード閲覧って面倒やん？\n目的ファイルの階層が深かったらいっぱいクリックせなあかんやん？\nそこでOctoTreeというChrome拡張を入れるとサイドにソースコードをツリーで表示できるようになる。\n便利。",
+        "user": "UKV0QGEUX",
+        "ts": "1567080718.001500",
+        "team": "TKFNAEJDQ",
+        "user_team": "TKFNAEJDQ",
+        "source_team": "TKFNAEJDQ",
+        "user_profile": {
+            "avatar_hash": "4d279b5ab4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-22\/675026989703_4d279b5ab4fe8609251b_72.png",
+            "first_name": "kendo.yasui",
+            "real_name": "kendo.yasui",
+            "display_name": "",
+            "team": "TKFNAEJDQ",
+            "name": "kendo.yasui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1FD72839-E61E-4B70-B426-C2B6D485B313",
+        "type": "message",
+        "text": "お〜〜",
+        "user": "UKTD752GG",
+        "ts": "1567080759.001800",
+        "team": "TKFNAEJDQ",
+        "user_team": "TKFNAEJDQ",
+        "source_team": "TKFNAEJDQ",
+        "user_profile": {
+            "avatar_hash": "4bab2ddebc8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-02\/1042936785605_4bab2ddebc8e3be1832d_72.png",
+            "first_name": "山縣",
+            "real_name": "山縣 瑶香",
+            "display_name": "yamagata.yoko",
+            "team": "TKFNAEJDQ",
+            "name": "yoko.yamagata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C1C7A07D-AE6E-4CB5-BC59-9C523F79EC33",
+        "type": "message",
+        "text": "でも仕事はGitLab...",
+        "user": "UKTD752GG",
+        "ts": "1567080789.002400",
+        "team": "TKFNAEJDQ",
+        "user_team": "TKFNAEJDQ",
+        "source_team": "TKFNAEJDQ",
+        "user_profile": {
+            "avatar_hash": "4bab2ddebc8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-02\/1042936785605_4bab2ddebc8e3be1832d_72.png",
+            "first_name": "山縣",
+            "real_name": "山縣 瑶香",
+            "display_name": "yamagata.yoko",
+            "team": "TKFNAEJDQ",
+            "name": "yoko.yamagata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKTD752GG",
+            "ts": "1567080801.000000"
+        }
+    },
+    {
+        "client_msg_id": "54388621-3696-4148-92b0-3166b5cddab3",
+        "type": "message",
+        "text": "あれま、、",
+        "user": "UKV0QGEUX",
+        "ts": "1567080873.003300",
+        "team": "TKFNAEJDQ",
+        "user_team": "TKFNAEJDQ",
+        "source_team": "TKFNAEJDQ",
+        "user_profile": {
+            "avatar_hash": "4d279b5ab4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-22\/675026989703_4d279b5ab4fe8609251b_72.png",
+            "first_name": "kendo.yasui",
+            "real_name": "kendo.yasui",
+            "display_name": "",
+            "team": "TKFNAEJDQ",
+            "name": "kendo.yasui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8262e197-587b-4be5-af29-637359ac062a",
+        "type": "message",
+        "text": "githubでサンプルコード見たい時とかはぜひ( ✌︎‘ω’)✌︎",
+        "user": "UKV0QGEUX",
+        "ts": "1567080904.003900",
+        "team": "TKFNAEJDQ",
+        "user_team": "TKFNAEJDQ",
+        "source_team": "TKFNAEJDQ",
+        "user_profile": {
+            "avatar_hash": "4d279b5ab4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-22\/675026989703_4d279b5ab4fe8609251b_72.png",
+            "first_name": "kendo.yasui",
+            "real_name": "kendo.yasui",
+            "display_name": "",
+            "team": "TKFNAEJDQ",
+            "name": "kendo.yasui",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "piggy",
+                "users": [
+                    "UKTD752GG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UKFNRCV19"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "UKV1QDKPH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UKT5BK4KF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59878AEB-EAE5-43A2-8FA0-5A7174640C11",
+        "type": "message",
+        "text": "セットでOctoLinkerも便利って偉い人が言ってた。 <https:\/\/octolinker.now.sh\/> ",
+        "user": "UKV1QDKPH",
+        "ts": "1567084709.005100",
+        "team": "TKFNAEJDQ",
+        "user_team": "TKFNAEJDQ",
+        "source_team": "TKFNAEJDQ",
+        "user_profile": {
+            "avatar_hash": "c37e1717f059",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-15\/754262601025_c37e1717f059e9aad1cc_72.png",
+            "first_name": "Hidenori",
+            "real_name": "Hidenori Oka",
+            "display_name": "hidenori oka",
+            "team": "TKFNAEJDQ",
+            "name": "hidenori.oka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "OctoLinker",
+                "title": "OctoLinker — Links together, what belongs together.",
+                "title_link": "https:\/\/octolinker.now.sh\/",
+                "text": "Browser extension for GitHub which turns language-specific module-loading statements like include, require or import into links.",
+                "fallback": "OctoLinker: OctoLinker — Links together, what belongs together.",
+                "thumb_url": "https:\/\/octolinker.now.sh\/static\/octolinker-og-screenshot.png",
+                "from_url": "https:\/\/octolinker.now.sh\/",
+                "thumb_width": 1060,
+                "thumb_height": 622,
+                "service_icon": "https:\/\/octolinker.now.sh\/static\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/octolinker.now.sh\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "614F886D-ABD9-4213-A4E4-D87C389119EA",
+        "type": "message",
+        "text": "偉い人:raised_hands:",
+        "user": "UKTD752GG",
+        "ts": "1567086097.006000",
+        "team": "TKFNAEJDQ",
+        "user_team": "TKFNAEJDQ",
+        "source_team": "TKFNAEJDQ",
+        "user_profile": {
+            "avatar_hash": "4bab2ddebc8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-02\/1042936785605_4bab2ddebc8e3be1832d_72.png",
+            "first_name": "山縣",
+            "real_name": "山縣 瑶香",
+            "display_name": "yamagata.yoko",
+            "team": "TKFNAEJDQ",
+            "name": "yoko.yamagata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

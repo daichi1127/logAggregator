@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "3ca97f89-09ac-4d43-90b4-244680657ba1",
+        "type": "message",
+        "text": "<https:\/\/blog.btrax.com\/jp\/apple-card\/>",
+        "user": "UKTD752GG",
+        "ts": "1567003246.000300",
+        "team": "TKFNAEJDQ",
+        "user_team": "TKFNAEJDQ",
+        "source_team": "TKFNAEJDQ",
+        "user_profile": {
+            "avatar_hash": "4bab2ddebc8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-02\/1042936785605_4bab2ddebc8e3be1832d_72.png",
+            "first_name": "山縣",
+            "real_name": "山縣 瑶香",
+            "display_name": "yamagata.yoko",
+            "team": "TKFNAEJDQ",
+            "name": "yoko.yamagata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ビートラックス (btrax) : freshtrax ブログ",
+                "title": "【クレジットカード革命】Apple Cardから学ぶ革新的UXデザインのポイント",
+                "title_link": "https:\/\/blog.btrax.com\/jp\/apple-card\/",
+                "text": "これからは、商品の魅力よりも、ユーザーのタッチポイントを制覇した企業が勝つ、という概念がどんどん加速し、それが金融業界にもどんどん広まっている。デザインは商品の魅力をアップさせる役割だけではなく、経営全体に重要な役割を果たしている。",
+                "fallback": "ビートラックス (btrax) : freshtrax ブログ: 【クレジットカード革命】Apple Cardから学ぶ革新的UXデザインのポイント",
+                "image_url": "https:\/\/blog.btrax.com\/jp\/files\/2019\/08\/apple-card-main.jpg",
+                "from_url": "https:\/\/blog.btrax.com\/jp\/apple-card\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 97919,
+                "service_icon": "https:\/\/blog.btrax.com\/assets\/images\/icon\/apple-touch-icon-ipad.png",
+                "id": 1,
+                "original_url": "https:\/\/blog.btrax.com\/jp\/apple-card\/"
+            }
+        ]
+    }
+]

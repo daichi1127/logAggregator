@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "0007b0ea-9c07-49a4-97f7-734331352f9f",
+        "type": "message",
+        "text": "アルゴリズムゲーム\n無駄のないコードを思いつくための練習サイト\n<https:\/\/home.jeita.or.jp\/is\/highschool\/algo\/index.html>",
+        "user": "UKT5BK4KF",
+        "ts": "1566715915.001400",
+        "team": "TKFNAEJDQ",
+        "user_team": "TKFNAEJDQ",
+        "source_team": "TKFNAEJDQ",
+        "user_profile": {
+            "avatar_hash": "g122a117db52",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0122a117db524bb15fdb0e6df66bc82c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "daichi.murakami",
+            "display_name": "",
+            "team": "TKFNAEJDQ",
+            "name": "daichi.murakami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "アルゴリズム体験ゲーム・アルゴロジック｜JEITAソフトウェアで未来をつくる",
+                "title": "アルゴリズム体験ゲーム・アルゴロジック",
+                "title_link": "https:\/\/home.jeita.or.jp\/is\/highschool\/algo\/index.html",
+                "text": "JEITAのキッズサイト。小・中学生向けにソフトウェアの面白さを紹介。",
+                "fallback": "アルゴリズム体験ゲーム・アルゴロジック｜JEITAソフトウェアで未来をつくる: アルゴリズム体験ゲーム・アルゴロジック",
+                "from_url": "https:\/\/home.jeita.or.jp\/is\/highschool\/algo\/index.html",
+                "thumb_url": "http:\/\/home.jeita.or.jp\/is\/highschool\/algo\/fb\/image-fb\/algo-logic.jpg",
+                "thumb_width": 50,
+                "thumb_height": 50,
+                "id": 1,
+                "original_url": "https:\/\/home.jeita.or.jp\/is\/highschool\/algo\/index.html"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "glitch_crab",
+                "users": [
+                    "UKTD752GG",
+                    "UKV0QGEUX",
+                    "UKV1QDKPH"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

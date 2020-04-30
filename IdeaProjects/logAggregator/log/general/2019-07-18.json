@@ -1,0 +1,163 @@
+[
+    {
+        "client_msg_id": "15cea48e-ab9a-48e1-913b-8c846f25d5e2",
+        "type": "message",
+        "text": "【業務に役立つ情報】\n先日ozmallという女性向け情報誌のアプリ版のニュースで\n都内にお洒落な瞑想スペースがオープンされた記事が載っていました。\n入社するまで瞑想とは無縁でしたが、徐々に世間でも広まってきてるんですね。\n\n都内にある瞑想スポットをご紹介します。\n\n「Medicha」南青山\n<https:\/\/www.ozmall.co.jp\/beauty\/article\/19610\/>\n・ozmallで紹介されてた最近できた瞑想スタジオです。\n・独自の４ステップからなるプログラムが組まれてるらしいです。\n・利用料１回(８０分）8460円…高い。\n\n「muon」新宿\n<https:\/\/rurubu.jp\/andmore\/article\/4365>\n・それぞれテーマの異なる５つのセッションから自由に選択して瞑想ができます。\n・上で紹介されてるとこ同様とても綺麗なとこです。\n・お値段もお安め。セッションによりお値段が変わりますが1080～2160円。\n・通い放題プランだと月額4320円です。癒されそうな場所なので結構よいかもしれません。\n\n「高野山東京別院」高輪台\n<http:\/\/midori32.hatenablog.com\/entry\/ajikan_koyasan>\n・住職さん指導のもと1時間くらいの瞑想体験ができます。\n・月2回土曜日の午前中に開催されているようです。\n・参加費無料で瞑想のあとは茶和会が1時間程あるそうです。\n\n気軽に行けるところも結構あるので、リフレッシュしたい時とかに行くのもいいかもしれません。",
+        "user": "UKTD752GG",
+        "ts": "1563501248.000300",
+        "team": "TKFNAEJDQ",
+        "user_team": "TKFNAEJDQ",
+        "source_team": "TKFNAEJDQ",
+        "user_profile": {
+            "avatar_hash": "4bab2ddebc8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-02\/1042936785605_4bab2ddebc8e3be1832d_72.png",
+            "first_name": "山縣",
+            "real_name": "山縣 瑶香",
+            "display_name": "yamagata.yoko",
+            "team": "TKFNAEJDQ",
+            "name": "yoko.yamagata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "オズモール",
+                "title": "メディテーションスタジオ「Medicha（メディ－チャ）」が南青山にオープン",
+                "title_link": "https:\/\/www.ozmall.co.jp\/beauty\/article\/19610\/",
+                "text": "忙しい毎日だからこそ、心のバランスを取るためにしっかりリラックスする時間を持つことが大切。そこでストレス過多な毎日を送る都市生活者に向けて、五感を解放させて“自分に余白を作る”贅沢なひとときを提供するメディテーションスタジオ「Medicha（メディ－チャ）」が南青山にオープン。高い美意識を持つプロフェッショナルと構築したプログラムで心を解き放す、究極のセルフコンディショニング体験を。",
+                "fallback": "オズモール: メディテーションスタジオ「Medicha（メディ－チャ）」が南青山にオープン",
+                "image_url": "https:\/\/www.ozmall.co.jp\/Content\/upload\/images\/972cac29fc204c1e8646c6a44d87b94f.jpg",
+                "from_url": "https:\/\/www.ozmall.co.jp\/beauty\/article\/19610\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 143563,
+                "service_icon": "https:\/\/www.ozmall.co.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.ozmall.co.jp\/beauty\/article\/19610\/"
+            },
+            {
+                "service_name": "るるぶ&amp;more.",
+                "title": "美しすぎる瞑想専用スタジオ「muon」。究極の静寂はまさに神秘的｜るるぶ&amp;more.",
+                "title_link": "https:\/\/rurubu.jp\/andmore\/article\/4365",
+                "text": "マドンナやイチローが実践していることから、近年人気の瞑想。ニューヨークを中心に、高級感のある瞑想専用のスタジオが数々登場しているそう。今回ご紹介するのは、全国でヨガスタジオを展開しているヨギーが手掛ける、日本初の瞑想専用スタジオ「muon（ムオン）」。瞑想なんて家でもできそうなのに、わざわざスタジオに行く意味あるの…？と思いながら体験しましたが行って納得。「muon」の瞑想へのこだわりが究極すぎなんです！",
+                "fallback": "るるぶ&amp;more.: 美しすぎる瞑想専用スタジオ「muon」。究極の静寂はまさに神秘的｜るるぶ&amp;more.",
+                "image_url": "https:\/\/rurubu.jp\/img_srw\/andmore\/images\/thumbnail\/l_uiHnGZ5fUm9QDH1EdsbjWytigFU52QNkTEM1fK2m.jpeg",
+                "from_url": "https:\/\/rurubu.jp\/andmore\/article\/4365",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 57960,
+                "service_icon": "https:\/\/rurubu.jp\/assets\/webclip_icon\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/rurubu.jp\/andmore\/article\/4365"
+            },
+            {
+                "service_name": "よりどりみどり",
+                "title": "高野山東京別院の阿字観実修に行って感じたこと - よりどりみどり",
+                "title_link": "http:\/\/midori32.hatenablog.com\/entry\/ajikan_koyasan",
+                "text": "高野山東京別院で阿字観実習を初体験してきました。その時のレポートです。",
+                "fallback": "よりどりみどり: 高野山東京別院の阿字観実修に行って感じたこと - よりどりみどり",
+                "image_url": "http:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/m\/midori32\/20151218\/20151218055826.jpg",
+                "ts": 1450276200,
+                "from_url": "http:\/\/midori32.hatenablog.com\/entry\/ajikan_koyasan",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 258761,
+                "service_icon": "https:\/\/cdn.image.st-hatena.com\/image\/apple_touch_icon\/494d88cb7b85f53b1d3b4f772ecf9b4e4a946cdf\/version=1\/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fblog_custom_icon%2F103685753%2F1543823707978098",
+                "id": 3,
+                "original_url": "http:\/\/midori32.hatenablog.com\/entry\/ajikan_koyasan"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UKT5BK4KF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19ed9b05-acf5-45ef-8d8a-34525ff7e00c",
+        "type": "message",
+        "text": "【業務に役立つ情報】\n\n業務に役立つ情報の配信担当になった際には、\n毎度「最近HOTな話題」を探しております。\n\n今回は『7pay』一択でした。\n\n話題としては若干既に下火ではありますが、\n大企業の過失だけに目を見張るものがありました。\n\n『7pay』問題関連の記事で、参考になったものを\nいくつか記載させて頂きます。\n\n　▼エンドユーザ視点で分かりやすい記事\n　　<https:\/\/www3.nhk.or.jp\/news\/html\/20190705\/k10011984031000.html>\n\n　▼問題点を具体的に紹介している記事\n　　<https:\/\/japanese.engadget.com\/2019\/07\/03\/3-7pay\/>\n\n　▼ITジャーナリストの見解的な記事\n　　<https:\/\/toyokeizai.net\/articles\/-\/290685>\n\n東洋経済オンラインの見出しままですが、今回の事件は\n『｢設計､現状認識､後日対応｣すべてが甘かった』という言葉が\n全てを表していると感じております。\n（個人の感想です）\n\nまた、一番印象に残ったのは以下の知見者のコメントで、\n「2025年の崖」を思い出しました。\n\n　▼7Payの失態で露呈した本当は怖いIDの話\n　　<https:\/\/comemo.nikkei.com\/n\/n3b3fb417e637>\n\n\nシステム関連の事故や事件は、何故だか\n「明日は我が身…！」と思ってしまうんですよね…。\n\nTwitter上では、\n\n　納期や費用を切り詰めようとしてくる顧客には、\n　『必要な部分を切り詰めると、7payみたいになりますよ』って\n　説明ができるね！\n\nなんてITジョークも生まれており、\nシステム屋は少なからず肝を冷やしたんだなあ、と\n胃をさすったりしておりました。\n\n1カスタマーとしても興味深い事件ですので、会社の対応や\nシステム改善等、引き続き成り行きを見守りたいと思います。",
+        "user": "UKTD752GG",
+        "ts": "1563501299.000700",
+        "team": "TKFNAEJDQ",
+        "user_team": "TKFNAEJDQ",
+        "source_team": "TKFNAEJDQ",
+        "user_profile": {
+            "avatar_hash": "4bab2ddebc8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-02\/1042936785605_4bab2ddebc8e3be1832d_72.png",
+            "first_name": "山縣",
+            "real_name": "山縣 瑶香",
+            "display_name": "yamagata.yoko",
+            "team": "TKFNAEJDQ",
+            "name": "yoko.yamagata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "NHKニュース",
+                "title": "７ｐａｙ問題 ７つのポイント | NHKニュース",
+                "title_link": "https:\/\/www3.nhk.or.jp\/news\/html\/20190705\/k10011984031000.html",
+                "text": "コンビニ大手「セブン‐イレブン」が今月１日から始めたスマホ決済サービス「７ｐａｙ」で、自分が知らない間に、勝手に不正利用…",
+                "fallback": "NHKニュース: ７ｐａｙ問題 ７つのポイント | NHKニュース",
+                "image_url": "https:\/\/www3.nhk.or.jp\/news\/html\/20190705\/K10011984031_1907051923_1907051938_01_02.jpg",
+                "from_url": "https:\/\/www3.nhk.or.jp\/news\/html\/20190705\/k10011984031000.html",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 40441,
+                "service_icon": "http:\/\/www.nhk.or.jp\/apple-touch-icon-152x152-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/www3.nhk.or.jp\/news\/html\/20190705\/k10011984031000.html"
+            },
+            {
+                "service_name": "Engadget JP",
+                "title": "開幕3日で不正利用被害報告、「7Pay」に何があったのか：モバイル決済最前線 - Engadget Japanese",
+                "title_link": "https:\/\/japanese.engadget.com\/2019\/07\/03\/3-7pay\/",
+                "text": "7月1日にサービスが開始されたばかりのセブンイレブンジャパンのモバイル決済サービス「7Pay」だが、開始当初から登録や問い合わせが殺到してサーバにつながりにくい状況が続いていただけでなく、3日目にはついに不正利用報告が相次ぐ形になった。 Engadget日本版でもすでに報告しているが、身に覚えのない登録済みカード...",
+                "fallback": "Engadget JP: 開幕3日で不正利用被害報告、「7Pay」に何があったのか：モバイル決済最前線 - Engadget Japanese",
+                "image_url": "https:\/\/o.aolcdn.com\/images\/dims?resize=2000%2C2000%2Cshrink&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F34824750-9d92-11e9-befe-66a56d9be7ef&client=a1acac3e1b3290917d92&signature=307583bdb7e50ed82f3919fd057eb9895f0a2bb0",
+                "image_width": 394,
+                "image_height": 250,
+                "from_url": "https:\/\/japanese.engadget.com\/2019\/07\/03\/3-7pay\/",
+                "image_bytes": 49453,
+                "service_icon": "https:\/\/s.blogsmithmedia.com\/japanese.engadget.com\/assets-hcad46152bb4120547b37fb4538960ba5\/images\/apple-touch-icon-57x57.png?h=b07835531d7826b72615c77771a72171",
+                "id": 2,
+                "original_url": "https:\/\/japanese.engadget.com\/2019\/07\/03\/3-7pay\/"
+            },
+            {
+                "service_name": "東洋経済オンライン",
+                "title": "セブンペイの不正アクセスはなぜ起きたのか | 災害･事件･裁判",
+                "title_link": "https:\/\/toyokeizai.net\/articles\/-\/290685",
+                "text": "セブン-イレブンが7月1日に開始したQRコード決済システム「7pay（セブンペイ）」で不正アクセス被害が発覚した。相次ぐ不正利用の報告に暫時、入金手続きを停止する措置がとられていたが、4日、運営会社のセブン・…",
+                "fallback": "東洋経済オンライン: セブンペイの不正アクセスはなぜ起きたのか | 災害･事件･裁判",
+                "image_url": "https:\/\/toyokeizai.net\/mwimgs\/d\/3\/-\/img_d3891cca2e593a352e718a8ed3181226160644.jpg",
+                "ts": 1562294400,
+                "from_url": "https:\/\/toyokeizai.net\/articles\/-\/290685",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 75037,
+                "service_icon": "https:\/\/toyokeizai.net\/apple-touch-icon.png?20131220",
+                "id": 3,
+                "original_url": "https:\/\/toyokeizai.net\/articles\/-\/290685"
+            },
+            {
+                "service_name": "COMEMO by NIKKEI",
+                "title": "7Payの失態で露呈した本当は怖いIDの話｜楠 正憲（国際大学GLOCOM 客員研究員）",
+                "title_link": "https:\/\/comemo.nikkei.com\/n\/n3b3fb417e637",
+                "text": "セブンイレブンのQR決済「7Pay」がリリース翌日から大規模な不正アクセスの被害を受け、少なくとも約900人が、計約5500万円の被害を受けた。原因は杜撰なIDの設計にあり、被害者はいずれもIDを乗っ取られて、クレジットカードから不正にチャージされた。 自分の設定したIDとパスワードを入力して、どちらも正しい場合にログインできる仕組みは1960年代前半に発明されて以来、今もインターネット上で最も広く利用されている。GAFAはじめYahoo!や楽天といった大手企業が今も使っていることから、十分に安全と思われがちだ。 ところが実際のところ特にここ数年は非常に激しい攻撃に晒されており、",
+                "fallback": "COMEMO by NIKKEI: 7Payの失態で露呈した本当は怖いIDの話｜楠 正憲（国際大学GLOCOM 客員研究員）",
+                "thumb_url": "https:\/\/assets.st-note.com\/production\/uploads\/images\/12696\/profile_c81cab1c2e21246e6b9fd89ed6b156d5.jpg?fit=bounds&format=jpeg&quality=45&width=330",
+                "from_url": "https:\/\/comemo.nikkei.com\/n\/n3b3fb417e637",
+                "thumb_width": 330,
+                "thumb_height": 330,
+                "service_icon": "https:\/\/s3-ap-northeast-1.amazonaws.com\/poc-image\/production\/c3dbd724e7256bb060fd744da93b760c449070bd4a9c14dd418effb3d4bb.png",
+                "id": 4,
+                "original_url": "https:\/\/comemo.nikkei.com\/n\/n3b3fb417e637"
+            }
+        ]
+    }
+]

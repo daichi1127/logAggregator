@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1561189271.000200",
+        "user": "UKT5BK4KF",
+        "text": "<@UKT5BK4KF>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1561189593.000400",
+        "user": "UKFNRCV19",
+        "text": "<@UKFNRCV19>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1561189617.000600",
+        "user": "UKV0QGEUX",
+        "text": "<@UKV0QGEUX>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1561192033.000900",
+        "user": "UKV0ZJLCF",
+        "text": "<@UKV0ZJLCF>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1561197404.000200",
+        "user": "UKV1QDKPH",
+        "text": "<@UKV1QDKPH>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1561209678.000200",
+        "user": "UKT887N3F",
+        "text": "<@UKT887N3F>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1561251265.000200",
+        "user": "UKTD752GG",
+        "text": "<@UKTD752GG>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "A9A92963-7D0E-41FE-A00D-DF5FB3834DB5",
+        "type": "message",
+        "text": "<@UKT887N3F> アイコン…",
+        "user": "UKTD752GG",
+        "ts": "1561251679.000400",
+        "team": "TKFNAEJDQ",
+        "user_team": "TKFNAEJDQ",
+        "source_team": "TKFNAEJDQ",
+        "user_profile": {
+            "avatar_hash": "4bab2ddebc8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-02\/1042936785605_4bab2ddebc8e3be1832d_72.png",
+            "first_name": "山縣",
+            "real_name": "山縣 瑶香",
+            "display_name": "yamagata.yoko",
+            "team": "TKFNAEJDQ",
+            "name": "yoko.yamagata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]
